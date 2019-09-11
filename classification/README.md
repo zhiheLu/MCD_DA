@@ -6,6 +6,7 @@ The code is written by Kuniaki Saito. The work was accepted by CVPR 2018 Oral.
 ### Installation
 - Install PyTorch (Works on Version 0.2.0_3) and dependencies from http://pytorch.org.
 - Install Torch vision from the source.
+- Install tensorboardX using conda or pip
 - Install torchnet as follows
 ```
 pip install git+https://github.com/pytorch/tnt.git@master
